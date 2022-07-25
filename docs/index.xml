@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willkommen on The Chronicom Chronicles</title>
+    <link>https://poulpet.github.io/</link>
+    <description>Recent content in Willkommen on The Chronicom Chronicles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://poulpet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empfehlungen des Monats</title>
+      <link>https://poulpet.github.io/edm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poulpet.github.io/edm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://poulpet.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poulpet.github.io/contact/</guid>
+      <description>Wer ist verantwortlich für die Datenerfassung auf dieser Website? Nach § 5 TMG bin allein ich fuer die Inhalte unter der Domain poulpet.github.io verantwortlich.
+Beate Pelzer
+Martinistraße 11
+49080 Osnabrück
+E-Mail: chronicomchronicles@proton.me
+Datenschutz Ich nutze keine Cookies, Matomo, Google Analytics oder aehnliche Dienste. Ebenfalls lade ich keine Dateien (wie Bilder, Videos, Code, Schriftarten, …) von anderen Quellen.
+Hosting mit GitHub Pages Diese Webseite wird gehostet auf Servern der Github Inc., 88 Colin P Kelly Jr.</description>
+    </item>
+    
+    <item>
+      <title>Wer schreibt hier?</title>
+      <link>https://poulpet.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poulpet.github.io/about/</guid>
+      <description>Eine solche Frage für sich selbst zu beantworten, ist schwierig, vor allem, wenn man den Eintrag nicht alle paar Wochen ändern möchte. Ich will es aber mal versuchen.
+Ich bin&amp;hellip;
+eine ewig Suchende, die aber schon viel gefunden hat. ein Quälgeist, der selten die &amp;ldquo;Dinge&amp;rdquo; einfach so stehen lassen will. ein Bücherwurm, der das Haus ungern ohne Buch verlässt. ein lebhafter Flummi, dem das &amp;ldquo;Chilln&amp;rdquo; nicht liegt. ein Dickkopf, der aber durchaus offen für eine Revision der eigenen Meinungen ist und durch die Vehemenz seiner Aussagen immer für Überraschungen sorgt, wenn dies passiert.</description>
+    </item>
+    
+  </channel>
+</rss>
